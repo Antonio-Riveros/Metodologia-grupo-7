@@ -1,4 +1,4 @@
-# Metodologia-grupo-7
+# Comision4A-Grupo7
 
 # Integrantes:
 ## Riveros Antonio
