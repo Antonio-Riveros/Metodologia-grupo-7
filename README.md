@@ -1,6 +1,6 @@
 # Metodologia-grupo-7
 
-# integrantes
+# Integrantes:
 ## Riveros Antonio
 ## Zarza Tania
 ## Silva Agustin
