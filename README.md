@@ -2,5 +2,6 @@
 
 # Integrantes:
 ## Riveros Antonio
-## Zarza Tania
+## [Zarza Tania](https://github.com/MaguiZarza):
+### Contribución: Agregar documento de texto "Agregar info de Zarza"
 ## Silva Agustin
